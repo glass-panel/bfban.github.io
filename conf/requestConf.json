@@ -1,5 +1,5 @@
 {
-  "requestDevelopmentName": "development4",
+  "requestDevelopmentName": "production",
   "requestProductionName": "production",
   "child": {
     "development": {
@@ -8,13 +8,13 @@
       "pathname": "/api/"
     },
     "development2": {
-      "protocol": "https",
-      "host": "seeding.linrunrun.online",
+      "protocol": "http",
+      "host": "101.43.35.41:3000",
       "pathname": "/api/"
     },
     "development3": {
       "protocol": "https",
-      "host": "bfban-testing.gametools.network",
+      "host": "bfban.gametools.network",
       "pathname": "/api/"
     },
     "development4": {
@@ -24,12 +24,7 @@
     },
     "production": {
       "protocol": "https",
-      "host": "bfban-testing.gametools.network",
-      "pathname": "/api/"
-    },
-    "production1": {
-      "protocol": "https",
-      "host": "bfban-testing.gametools.network",
+      "host": "bfban.gametools.network",
       "pathname": "/api/"
     }
   }
