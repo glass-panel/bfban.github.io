@@ -1,0 +1,35 @@
+*::selection {
+  background: fade(@primary-color, 60%);
+}
+
+body, html {
+  overflow-x: hidden;
+  background-color: #edfded!important;
+}
+
+@media screen and (min-width: 1024px) {
+  body, html{
+    background-image: url(../images/miku-background.png);
+    background-size: contain;
+    background-attachment: fixed;
+    background-position-x: 150%;
+    background-repeat: no-repeat;
+  }
+}
+
+// header
+header {
+  background-image: linear-gradient(#b9dfb9,transparent) !important;
+}
+
+// styles_herosection
+.styles_herosection {
+  .styles_bg {
+    background: linear-gradient(302.61deg, rgb(208 252 248) -0.71%, #fff9ad6e 89.57%);
+    filter: blur(60px);
+  }
+}
+
+.app {
+  background: linear-gradient(90deg, #edfded 70%, transparent 100%);
+}

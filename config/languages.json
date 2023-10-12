@@ -1,0 +1,178 @@
+{
+  "title": "Language List",
+  "default": "en-US",
+  "child": [
+    {
+      "name": "zh-CN",
+      "label": "简体中文",
+      "main": true,
+      "members": [
+        {
+          "name": "Sgt-Scar",
+          "url": "https://space.bilibili.com/44569813"
+        },
+        {
+          "name": "___4Tr1",
+          "url": "https://live.bilibili.com/591314"
+        },
+        {
+          "name": "SoraKasvgano",
+          "url": "https://live.bilibili.com/591314"
+        }
+      ]
+    },
+    {
+      "name": "zh-TW",
+      "label": "繁體中文",
+      "members": [
+        {
+          "name": "Google Translate",
+          "url": "//translate.google.com/"
+        },
+        {
+          "name": "巴哈姆特-高木",
+          "url": "//wall.gamer.com.tw/redir.php?userId=felix1027"
+        }
+      ]
+    },
+    {
+      "name": "zh-Cat",
+      "label": "简体喵文",
+      "ignoreSave": true,
+      "members": [
+        {
+          "name": "Cat",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "en-US",
+      "label": "English",
+      "members": [
+        {
+          "name": "redswordman",
+          "url": "//github.com/redswordman"
+        },
+        {
+          "name": "iiTzArcur",
+          "url": "//gametools.network"
+        },
+        {
+          "name": "LoeGamingAngel",
+          "url": "//bfban.com"
+        },
+        {
+          "name": "Fishbat627",
+          "url": "//bfban.com/account/28889"
+        }
+        
+      ]
+    },
+    {
+      "name": "ja-JP",
+      "label": "日本语",
+      "members": [
+        {
+          "name": "Baidu Bot",
+          "url": "//bfban.com"
+        },
+
+        {
+          "name": "咸驴さん RaidenBlade",
+          "url": "https://github.com/Raiden-Blade"
+        }
+      ]
+    },
+    {
+      "name": "kor-KOR",
+      "label": "한국어",
+      "members": [
+        {
+          "name": "Baidu Bot",
+          "url": "//bfban.com"
+        }
+      ]
+    },
+    {
+      "name": "ru-RU",
+      "label": "Русский",
+      "members": [
+        {
+          "name": "Baidu Bot",
+          "url": "//baidu.com"
+        },
+        {
+          "name": "Deepl",
+          "url": "//deepl.com"
+        },
+        {
+          "name": "Artem",
+          "url": "//github.com/nicoth-in"
+        }
+      ]
+    },
+    {
+      "name": "fr-FR",
+      "label": "France",
+      "members": [
+        {
+          "name": "Google Translate",
+          "url": "//translate.google.com/"
+        }
+      ]
+    },
+    {
+      "name": "it-IT",
+      "label": "Italiano",
+      "members": [
+        {
+          "name": "Google Translate",
+          "url": "//translate.google.com/"
+        }
+      ]
+    },
+    {
+      "name": "ar-EG",
+      "label": "عربي",
+      "members": [
+        {
+          "name": "Google Translate",
+          "url": "//translate.google.com/"
+        }
+      ]
+    },
+    {
+      "name": "de-DE",
+      "label": "Deutsch",
+      "members": [
+        {
+          "name": "Google Translate",
+          "url": "//translate.google.com/"
+        }
+      ]
+    },
+    {
+      "name": "es-ES",
+      "label": "Español",
+      "members": [
+        {
+          "name": "Google Translate",
+          "url": "//translate.google.com/"
+        }
+      ]
+    }
+  ],
+  "TODO": [
+    {
+      "name": "tr-TR",
+      "label": "Türkçe",
+      "members": [
+        {
+          "name": "Baidu Bot",
+          "url": "//baidu.com"
+        }
+      ]
+    }
+  ]
+}

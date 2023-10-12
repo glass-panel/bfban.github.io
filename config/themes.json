@@ -1,0 +1,103 @@
+{
+  "title": "theme",
+  "default": "lightness",
+  "child": [
+    {
+      "type": "local",
+      "name": "dark",
+      "img": "public/theme/dark/main.png",
+      "version": "0.4",
+      "themeColor": "#000000",
+      "authorInfo": {
+        "authorName": "BFBAN",
+        "authorUpdate": "2022-2-28"
+      },
+      "src": ""
+    },
+    {
+      "type": "local",
+      "name": "lightness",
+      "img": "public/theme/silence/main.png",
+      "version": "0.3",
+      "themeColor": "#efe227",
+      "authorInfo": {
+        "authorName": "BFBAN",
+        "authorUpdate": "2021-9-11"
+      },
+      "src": ""
+    },
+    {
+      "type": "local",
+      "name": "pink",
+      "img": "public/theme/pink/main.png",
+      "themeColor": "pink",
+      "version": "0.2",
+      "authorInfo": {
+        "authorName": "BFBAN",
+        "authorUpdate": "2021-9-26"
+      },
+      "src": ""
+    },
+    {
+      "type": "local",
+      "name": "orange",
+      "img": "public/theme/orange/main.png",
+      "themeColor": "orange",
+      "version": "0.1",
+      "authorInfo": {
+        "authorName": "BFBAN",
+        "authorUpdate": "2023-7-16"
+      },
+      "src": ""
+    },
+    {
+      "type": "local",
+      "name": "violet",
+      "img": "public/theme/violet/main.png",
+      "themeColor": "violet",
+      "version": "0.1",
+      "authorInfo": {
+        "authorName": "BFBAN",
+        "authorUpdate": "2023-7-16"
+      },
+      "src": ""
+    },
+    {
+      "type": "local",
+      "name": "MikuGreen",
+      "img": "public/theme/MikuGreen/main.png",
+      "themeColor": "#39C5BB",
+      "version": "0.1",
+      "authorInfo": {
+        "authorName": "miku39",
+        "authorUpdate": "2023-6-5"
+      },
+      "src": ""
+    },
+    {
+      "type": "local",
+      "name": "KarmaBlue",
+      "img": "public/theme/KarmaBlue/main.png",
+      "themeColor": "#0022ff",
+      "version": "0.1",
+      "authorInfo": {
+        "authorName": "karma",
+        "authorUpdate": "2023-7-24"
+      },
+      "src": ""
+    },
+    {
+
+      "type": "local",
+      "name": "BlueDeep",
+      "img": "public/theme/BlueDeep/main.png",
+      "themeColor": "#364e80",
+      "version": "0.1",
+      "authorInfo": {
+        "authorName": "Cabbagelol",
+        "authorUpdate": "2023-6-15"
+      },
+      "src": ""
+    }
+  ]
+}
